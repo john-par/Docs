@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: ASP.NET Core MVC with Entity Framework Core"
+title: "Tutorial: Get started with ASP.NET Core MVC web app with EF Core"
 description: "This is the first in a series of tutorials that explain how to build the Contoso University sample application from scratch."
 author: rick-anderson
 ms.author: tdykstra
@@ -9,7 +9,7 @@ ms.topic: tutorial
 uid: data/ef-mvc/intro
 ---
 
-# Tutorial: ASP.NET Core MVC with Entity Framework Core
+# Tutorial: Get started with ASP.NET Core MVC web app with EF Core
 
 [!INCLUDE [RP better than MVC](~/includes/RP-EF/rp-over-mvc-21.md)]
 
@@ -365,7 +365,7 @@ Some things to be aware of when you are writing asynchronous code that uses the 
 
 For more information about asynchronous programming in .NET, see [Async Overview](/dotnet/articles/standard/async).
 
-## Additional resources
+## Get the code
 
 [Download or view the completed application.](https://github.com/aspnet/Docs/tree/master/aspnetcore/data/ef-mvc/intro/samples/cu-final)
 
@@ -388,7 +388,7 @@ In the following tutorial, you'll learn how to perform basic CRUD (create, read,
 
 Advance to the next article to learn how to perform basic CRUD (create, read, update, delete) operations.
 > [!div class="nextstepaction"]
-> [Perform CRUD operations](crud.md)
+> [Implement basic CRUD functionality](crud.md)
 
 ::: moniker-end
 
